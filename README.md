@@ -16,8 +16,3 @@ A comprehensive collection of economic models and tools aimed at optimizing reso
 3. Market Assessment Tools
 4. Resource Allocation Optimization Models
 
-## Getting Started
-Instructions on how to use these models and tools will be provided.
-
-Stay tuned for updates!
-
