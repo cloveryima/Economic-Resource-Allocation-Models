@@ -3,7 +3,7 @@ A collection of economic models and tools for optimizing resource allocation, in
 
 # Economic-Resource-Allocation-Models
 
-A comprehensive collection of economic models and tools aimed at optimizing resource allocation for organizations, including NGOs, SMEs, and policymakers. This project provides user-friendly frameworks and sample data to make economic modeling more accessible and impactful.
+A comprehensive collection of economic models and tools aimed at optimizing resource allocation for people who are interested. This project provides user-friendly frameworks and sample data to make economic modeling more accessible and impactful.
 
 ## Goals
 - To promote fair and efficient resource allocation.
